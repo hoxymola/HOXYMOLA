@@ -8,5 +8,5 @@
 <hr>
 
 [![CodeForces Profile](https://cf.leed.at?id=hoxym01a)](https://codeforces.com/profile/hoxym01a)
-[![CodeForces Profile](https://cf.leed.at?id=ho_oxymola)](https://codeforces.com/profile/ho_oxymola)
+
 
