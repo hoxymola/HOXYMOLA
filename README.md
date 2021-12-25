@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=hello,%20world&fontSize=90)
 [![CodeForces Profile](https://cf.leed.at?id=hoxym01a)](https://codeforces.com/profile/hoxym01a)
-[![CodeForces Profile](https://cf.leed.at?id=ho_oxymola)](https://codeforces.com/profile/ho_oxymola)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoxymola)](https://solved.ac/hoxymola)
-[![github stats](https://github-readme-stats.vercel.app/api?username=hoxymola&show_icons=true&theme={theme})](https://github.com/hoxymola/github-readme-stats)
-<!--
+
 **HOXYMOLA/HOXYMOLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
