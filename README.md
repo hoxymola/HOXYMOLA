@@ -3,7 +3,8 @@
 <hr>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoxymola)](https://solved.ac/hoxymola)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoxymola)](https://github.com/HOXYMOLA)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoxymola&layout=compact)](https://github.com/HOXYMOLA)
+
 
 <hr>
 
