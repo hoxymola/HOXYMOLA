@@ -3,6 +3,7 @@
 [![CodeForces Profile](https://cf.leed.at?id=ho_oxymola)](https://codeforces.com/profile/ho_oxymola)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoxymola)](https://solved.ac/hoxymola)
+[![github stats](https://github-readme-stats.vercel.app/api?username=hoxymola&show_icons=true&theme={theme})](https://github.com/hoxymola/github-readme-stats)
 <!--
 **HOXYMOLA/HOXYMOLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
