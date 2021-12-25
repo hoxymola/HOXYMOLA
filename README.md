@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hello,%20world&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=hello,%20world&fontSize=90)
 [![CodeForces Profile](https://cf.leed.at?id=hoxym01a)](https://codeforces.com/profile/hoxym01a)
 [![CodeForces Profile](https://cf.leed.at?id=ho_oxymola)](https://codeforces.com/profile/ho_oxymola)
 [![Solved.ac
