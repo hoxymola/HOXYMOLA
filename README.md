@@ -3,7 +3,7 @@
 <hr>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoxymola)](https://solved.ac/hoxymola)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hoxymola&repo=cheat-sheet)](https://github.com/HOXYMOLA/Cheat-Sheet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HOXYMOLA&repo=Cheat-Sheet)](https://github.com/HOXYMOLA/Cheat-Sheet)
 
 <hr>
 
