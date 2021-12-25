@@ -2,7 +2,7 @@
 [![CodeForces Profile](https://cf.leed.at?id=hoxym01a)](https://codeforces.com/profile/hoxym01a)
 [![CodeForces Profile](https://cf.leed.at?id=ho_oxymola)](https://codeforces.com/profile/ho_oxymola)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=hoxymola)](https://solved.ac/hoxymola)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hoxymola)](https://solved.ac/hoxymola)
 <!--
 **HOXYMOLA/HOXYMOLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
