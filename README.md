@@ -6,34 +6,28 @@
   />
 </p>
 
-## 📊 Competitive Programming
-
+<!-- 카드 배치: 백준 | 스팀 / 코포 | -->
 <p align="center">
-  <table align="center">
+  <table align="center" style="border: none;">
     <tr>
       <td align="center" style="padding: 10px;">
-        <b>📘 Solved.ac</b><br>
         <a href="https://solved.ac/hoxymola">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoxymola" alt="Solved.ac 프로필"/>
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoxymola" alt="백준"/>
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <b>⚡ Codeforces</b><br>
-        <a href="https://codeforces.com/profile/hoxym01a">
-          <img src="https://cf.leed.at?id=hoxym01a" alt="Codeforces Profile"/>
+        <a href="https://steamcommunity.com/profiles/76561198843102917">
+          <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198843102917&show_in_game_bg=true&show_recent_game_bg=true" alt="스팀"/>
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <a href="https://codeforces.com/profile/hoxym01a">
+          <img src="https://cf.leed.at?id=hoxym01a" alt="코포"/>
+        </a>
+      </td>
+      <td></td> <!-- 빈칸 -->
+    </tr>
   </table>
-</p>
-
----
-
-## 🎮 Gaming
-
-<p align="center">
-  <b>🎮 Steam</b><br>
-  <a href="https://steamcommunity.com/profiles/76561198843102917">
-    <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198843102917&show_in_game_bg=true&show_recent_game_bg=true" alt="Steam Status"/>
-  </a>
 </p>
