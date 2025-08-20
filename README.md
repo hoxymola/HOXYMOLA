@@ -7,6 +7,14 @@
   />
 </p>
 
+<!-- Codeforces -->
+<p align="center" style="line-height: 2; margin-bottom: 20px;">
+  <a href="https://codeforces.com/profile/hoxym01a">
+    <img src="https://cf.leed.at?id=hoxym01a" alt="Codeforces" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
+  </a>
+</p>
+
+
 <!-- Solved.ac & Mazandi (centered, horizontal inline) -->
 <p align="center" style="line-height: 2; margin-bottom: 20px;">
   <a href="https://solved.ac/hoxymola" style="margin-right: 10px;">
@@ -14,13 +22,6 @@
   </a>
   <a href="https://mazandi.herokuapp.com/profile/hoxymola" style="margin-left: 10px;">
     <img src="http://mazandi.herokuapp.com/api?handle=hoxymola&theme=warm" alt="Mazandi" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
-  </a>
-</p>
-
-<!-- Codeforces -->
-<p align="center" style="line-height: 2; margin-bottom: 20px;">
-  <a href="https://codeforces.com/profile/hoxym01a">
-    <img src="https://cf.leed.at?id=hoxym01a" alt="Codeforces" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
   </a>
 </p>
 
