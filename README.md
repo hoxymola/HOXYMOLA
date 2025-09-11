@@ -25,5 +25,7 @@
 <p align="center" style="line-height: 2; margin-bottom: 20px;">
   <a href="https://solved.ac/hoxymola" style="margin-right: 10px;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoxymola" alt="Solved.ac" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
+    <img src="http://mazandi.herokuapp.com/api?handle=hoxymola&theme=dark" alt="Solved.ac" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
   </a>
 </p>
+
