@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<code>coding is my life . . .</code>
+<code>coding is my life . . ☠️ </code>
 
 </div>
 <br>
