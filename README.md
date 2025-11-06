@@ -1,6 +1,6 @@
 <div align="center">
 
-🐤 <br>
+🐥 <br>
 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
   <a href="https://codeforces.com/profile/hoxym01a"><img src="https://img.shields.io/badge/Codeforces-0000FF?style=for-the-badge&logo=codeforces&logoColor=white"/></a> <br>
